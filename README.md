@@ -1,5 +1,5 @@
-**Compression using Huffman Coding:** <br>
-Compression Steps:<br><br>
+**Compression using Huffman Coding:** <br><br>
+Compression Steps:<br>
 #Access the file and extract the text from that file <br>
 #Create a frequency Dictionary of each alphabet<br>
 #Create a min-heap in order to get the two minimum frequences to construct a node<br>
